@@ -1,12 +1,13 @@
 # Advent_of-Code_2025
-**12/1/2025** -  - Day 1 ~ 1.75 hours
+**12/1/2025** -  - Day 1 ~ 2.5 hours
 > *Reflections*
-> > It took longer than I expected for my thought logic to reconnect with my logic logic.
-> > I knew how I wanted to tackle the problem immediately, but confused myself with read() vs. readlines() vs. split() and manipulating the initial raw input.
-> > Happy that the for loops came pretty quickly
+> > Still shaking the rust off
+> > A lot of ways that this could have been tackled: Gave a soft try with list/range parsing and while looping before conceding to thinking about math. 
 
 > > *Difficulties*
-> > > Should refamiliarize with read(), readlines(), split(), list*
+> > > Was proud that I thought to use modulo and floor division; after testing it out, I realized I may not know exactly how they work.
+> > > > > Using mod on negative numbers was counter intuitive. EX. (3-5)%100 does not return -2, rather 98.
+> > > > > Using // on negative numbers was tricky. 
 
 
 Attempting AoC25 with hopefully some new skills.
